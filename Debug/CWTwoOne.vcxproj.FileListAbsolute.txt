@@ -1,0 +1,5 @@
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\CntrlWorj\CWTwoOne\Debug\CWTwoOne.vcxprojAssemblyReference.cache
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\CntrlWorj\CWTwoOne\Debug\CWTwoOne.MyForm.resources
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\CntrlWorj\CWTwoOne\Debug\CWTwoOne.vcxproj.GenerateResource.cache
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\CntrlWorj\CWTwoOne\Debug\CWTwoOne.exe
+C:\Users\ilyas\Desktop\Учеба(Техноложка)\2 курс\Программирование\CntrlWorj\CWTwoOne\Debug\CWTwoOne.pdb
